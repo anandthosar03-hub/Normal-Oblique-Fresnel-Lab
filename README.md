@@ -1262,22 +1262,6 @@ For scientific changes, contributors should provide either an analytical derivat
 
 ---
 
-# 45. License
-
-The uploaded project snapshot does not currently contain a license file.
-
-Before describing the repository as open source, add an appropriate license such as:
-
-```text
-MIT
-Apache-2.0
-BSD-3-Clause
-```
-
-depending on how you want others to use and modify the project.
-
----
-
 ## Fresnel EM Laboratory
 
 **From Maxwell boundary conditions to interactive electromagnetic-wave visualization.**
